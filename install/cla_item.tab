@@ -1,0 +1,523 @@
+claitem_cla|claitem_item|claitem_nombre|claitem_descripcion|claitem_imagen
+iso3166-1a2|AD|Andorra||
+iso3166-1a2|AE|Emiratos Árabes Unidos (los)||
+iso3166-1a2|AF|Afganistán||
+iso3166-1a2|AG|Antigua y Barbuda||
+iso3166-1a2|AI|Anguila||
+iso3166-1a2|AL|Albania||
+iso3166-1a2|AM|Armenia||
+iso3166-1a2|AO|Angola||
+iso3166-1a2|AQ|Antártida||
+iso3166-1a2|AR|Argentina||
+iso3166-1a2|AS|Samoa Americana||
+iso3166-1a2|AT|Austria||
+iso3166-1a2|AU|Australia||
+iso3166-1a2|AW|Aruba||
+iso3166-1a2|AX|Åland, Islas||
+iso3166-1a2|AZ|Azerbaiyán||
+iso3166-1a2|BA|Bosnia y Herzegovina||
+iso3166-1a2|BB|Barbados||
+iso3166-1a2|BD|Bangladesh||
+iso3166-1a2|BE|Bélgica||
+iso3166-1a2|BF|Burkina Faso||
+iso3166-1a2|BG|Bulgaria||
+iso3166-1a2|BH|Bahrein||
+iso3166-1a2|BI|Burundi||
+iso3166-1a2|BJ|Benin||
+iso3166-1a2|BL|Saint Barthélemy||
+iso3166-1a2|BM|Bermudas||
+iso3166-1a2|BN|Brunei Darussalam||
+iso3166-1a2|BO|Bolivia (Estado Plurinacional de)||
+iso3166-1a2|BQ|Bonaire, San Eustaquio y Saba||
+iso3166-1a2|BR|Brasil||
+iso3166-1a2|BS|Bahamas (las)||
+iso3166-1a2|BT|Bhután||
+iso3166-1a2|BV|Bouvet, Isla||
+iso3166-1a2|BW|Botswana||
+iso3166-1a2|BY|Belarús||
+iso3166-1a2|BZ|Belice||
+iso3166-1a2|CA|Canadá||
+iso3166-1a2|CC|Cocos / Keeling, (las) Islas||
+iso3166-1a2|CD|Congo (la República Democrática del)||
+iso3166-1a2|CF|República Centroafricana (la)||
+iso3166-1a2|CG|Congo (el)||
+iso3166-1a2|CH|Suiza||
+iso3166-1a2|CI|Côte d'Ivoire||
+iso3166-1a2|CK|Cook, (las) Islas||
+iso3166-1a2|CL|Chile||
+iso3166-1a2|CM|Camerún||
+iso3166-1a2|CN|China||
+iso3166-1a2|CO|Colombia||
+iso3166-1a2|CR|Costa Rica||
+iso3166-1a2|CU|Cuba||
+iso3166-1a2|CV|Cabo Verde||
+iso3166-1a2|CW|Curaçao||
+iso3166-1a2|CX|Navidad, Isla de||
+iso3166-1a2|CY|Chipre||
+iso3166-1a2|CZ|Chequia||
+iso3166-1a2|DE|Alemania||
+iso3166-1a2|DJ|Djibouti||
+iso3166-1a2|DK|Dinamarca||
+iso3166-1a2|DM|Dominica||
+iso3166-1a2|DO|Dominicana, (la) República||
+iso3166-1a2|DZ|Argelia||
+iso3166-1a2|EC|Ecuador||
+iso3166-1a2|EE|Estonia||
+iso3166-1a2|EG|Egipto||
+iso3166-1a2|EH|Sahara Occidental||
+iso3166-1a2|ER|Eritrea||
+iso3166-1a2|ES|España||
+iso3166-1a2|ET|Etiopía||
+iso3166-1a2|FI|Finlandia||
+iso3166-1a2|FJ|Fiji||
+iso3166-1a2|FK|Malvinas [Falkland], (las) Islas||
+iso3166-1a2|FM|Micronesia (Estados Federados de)||
+iso3166-1a2|FO|Feroe, (las) Islas||
+iso3166-1a2|FR|Francia||
+iso3166-1a2|GA|Gabón||
+iso3166-1a2|GB|Reino Unido de Gran Bretaña e Irlanda del Norte (el)||
+iso3166-1a2|GD|Granada||
+iso3166-1a2|GE|Georgia||
+iso3166-1a2|GF|Guayana Francesa||
+iso3166-1a2|GG|Guernsey||
+iso3166-1a2|GH|Ghana||
+iso3166-1a2|GI|Gibraltar||
+iso3166-1a2|GL|Groenlandia||
+iso3166-1a2|GM|Gambia (la)||
+iso3166-1a2|GN|Guinea||
+iso3166-1a2|GP|Guadeloupe||
+iso3166-1a2|GQ|Guinea Ecuatorial||
+iso3166-1a2|GR|Grecia||
+iso3166-1a2|GS|Georgia del Sur (la) y las Islas Sandwich del Sur||
+iso3166-1a2|GT|Guatemala||
+iso3166-1a2|GU|Guam||
+iso3166-1a2|GW|Guinea Bissau||
+iso3166-1a2|GY|Guyana||
+iso3166-1a2|HK|Hong Kong||
+iso3166-1a2|HM|Heard (Isla) e Islas McDonald||
+iso3166-1a2|HN|Honduras||
+iso3166-1a2|HR|Croacia||
+iso3166-1a2|HT|Haití||
+iso3166-1a2|HU|Hungría||
+iso3166-1a2|ID|Indonesia||
+iso3166-1a2|IE|Irlanda||
+iso3166-1a2|IL|Israel||
+iso3166-1a2|IM|Isla de Man||
+iso3166-1a2|IN|India||
+iso3166-1a2|IO|Territorio Británico del Océano Índico (el)||
+iso3166-1a2|IQ|Iraq||
+iso3166-1a2|IR|Irán (República Islámica de)||
+iso3166-1a2|IS|Islandia||
+iso3166-1a2|IT|Italia||
+iso3166-1a2|JE|Jersey||
+iso3166-1a2|JM|Jamaica||
+iso3166-1a2|JO|Jordania||
+iso3166-1a2|JP|Japón||
+iso3166-1a2|KE|Kenya||
+iso3166-1a2|KG|Kirguistán||
+iso3166-1a2|KH|Camboya||
+iso3166-1a2|KI|Kiribati||
+iso3166-1a2|KM|Comoras (las)||
+iso3166-1a2|KN|Saint Kitts y Nevis||
+iso3166-1a2|KP|Corea (la República Popular Democrática de)||
+iso3166-1a2|KR|Corea (la República de)||
+iso3166-1a2|KW|Kuwait||
+iso3166-1a2|KY|Caimán, (las) Islas||
+iso3166-1a2|KZ|Kazajstán||
+iso3166-1a2|LA|Lao, (la) República Democrática Popular||
+iso3166-1a2|LB|Líbano||
+iso3166-1a2|LC|Santa Lucía||
+iso3166-1a2|LI|Liechtenstein||
+iso3166-1a2|LK|Sri Lanka||
+iso3166-1a2|LR|Liberia||
+iso3166-1a2|LS|Lesotho||
+iso3166-1a2|LT|Lituania||
+iso3166-1a2|LU|Luxemburgo||
+iso3166-1a2|LV|Letonia||
+iso3166-1a2|LY|Libia||
+iso3166-1a2|MA|Marruecos||
+iso3166-1a2|MC|Mónaco||
+iso3166-1a2|MD|Moldova (la República de)||
+iso3166-1a2|ME|Montenegro||
+iso3166-1a2|MF|Saint Martin (parte francesa)||
+iso3166-1a2|MG|Madagascar||
+iso3166-1a2|MH|Marshall, (las) Islas||
+iso3166-1a2|MK|Macedonia (la ex República Yugoslava de)||
+iso3166-1a2|ML|Malí||
+iso3166-1a2|MM|Myanmar||
+iso3166-1a2|MN|Mongolia||
+iso3166-1a2|MO|Macao||
+iso3166-1a2|MP|Marianas del Norte, (las) Islas||
+iso3166-1a2|MQ|Martinique||
+iso3166-1a2|MR|Mauritania||
+iso3166-1a2|MS|Montserrat||
+iso3166-1a2|MT|Malta||
+iso3166-1a2|MU|Mauricio||
+iso3166-1a2|MV|Maldivas||
+iso3166-1a2|MW|Malawi||
+iso3166-1a2|MX|México||
+iso3166-1a2|MY|Malasia||
+iso3166-1a2|MZ|Mozambique||
+iso3166-1a2|NA|Namibia||
+iso3166-1a2|NC|Nueva Caledonia||
+iso3166-1a2|NE|Níger (el)||
+iso3166-1a2|NF|Norfolk, Isla||
+iso3166-1a2|NG|Nigeria||
+iso3166-1a2|NI|Nicaragua||
+iso3166-1a2|NL|Países Bajos (los)||
+iso3166-1a2|NO|Noruega||
+iso3166-1a2|NP|Nepal||
+iso3166-1a2|NR|Nauru||
+iso3166-1a2|NU|Niue||
+iso3166-1a2|NZ|Nueva Zelandia||
+iso3166-1a2|OM|Omán||
+iso3166-1a2|PA|Panamá||
+iso3166-1a2|PE|Perú||
+iso3166-1a2|PF|Polinesia Francesa||
+iso3166-1a2|PG|Papua Nueva Guinea||
+iso3166-1a2|PH|Filipinas (las)||
+iso3166-1a2|PK|Pakistán||
+iso3166-1a2|PL|Polonia||
+iso3166-1a2|PM|San Pedro y Miquelón||
+iso3166-1a2|PN|Pitcairn||
+iso3166-1a2|PR|Puerto Rico||
+iso3166-1a2|PS|Palestina, Estado de||
+iso3166-1a2|PT|Portugal||
+iso3166-1a2|PW|Palau||
+iso3166-1a2|PY|Paraguay||
+iso3166-1a2|QA|Qatar||
+iso3166-1a2|RE|Reunión||
+iso3166-1a2|RO|Rumania||
+iso3166-1a2|RS|Serbia||
+iso3166-1a2|RU|Rusia, (la) Federación de||
+iso3166-1a2|RW|Rwanda||
+iso3166-1a2|SA|Arabia Saudita||
+iso3166-1a2|SB|Salomón, Islas||
+iso3166-1a2|SC|Seychelles||
+iso3166-1a2|SD|Sudán (el)||
+iso3166-1a2|SE|Suecia||
+iso3166-1a2|SG|Singapur||
+iso3166-1a2|SH|Santa Helena, Ascensión y Tristán de Acuña||
+iso3166-1a2|SI|Eslovenia||
+iso3166-1a2|SJ|Svalbard y Jan Mayen||
+iso3166-1a2|SK|Eslovaquia||
+iso3166-1a2|SL|Sierra leona||
+iso3166-1a2|SM|San Marino||
+iso3166-1a2|SN|Senegal||
+iso3166-1a2|SO|Somalia||
+iso3166-1a2|SR|Suriname||
+iso3166-1a2|SS|Sudán del Sur||
+iso3166-1a2|ST|Santo Tomé y Príncipe||
+iso3166-1a2|SV|El Salvador||
+iso3166-1a2|SX|Sint Maarten (parte neerlandesa)||
+iso3166-1a2|SY|República Árabe Siria||
+iso3166-1a2|SZ|Swazilandia||
+iso3166-1a2|TC|Turcas y Caicos, (las) Islas||
+iso3166-1a2|TD|Chad||
+iso3166-1a2|TF|Tierras Australes Francesas (las)||
+iso3166-1a2|TG|Togo||
+iso3166-1a2|TH|Tailandia||
+iso3166-1a2|TJ|Tayikistán||
+iso3166-1a2|TK|Tokelau||
+iso3166-1a2|TL|Timor-Leste||
+iso3166-1a2|TM|Turkmenistán||
+iso3166-1a2|TN|Túnez||
+iso3166-1a2|TO|Tonga||
+iso3166-1a2|TR|Turquía||
+iso3166-1a2|TT|Trinidad y Tabago||
+iso3166-1a2|TV|Tuvalu||
+iso3166-1a2|TW|Taiwán (Provincia de China)||
+iso3166-1a2|TZ|Tanzania, República Unida de||
+iso3166-1a2|UA|Ucrania||
+iso3166-1a2|UG|Uganda||
+iso3166-1a2|UM|Islas Ultramarinas Menores de los Estados Unidos (las)||
+iso3166-1a2|US|Estados Unidos de América (los)||
+iso3166-1a2|UY|Uruguay||
+iso3166-1a2|UZ|Uzbekistán||
+iso3166-1a2|VA|Santa Sede (la)||
+iso3166-1a2|VC|San Vicente y las Granadinas||
+iso3166-1a2|VE|Venezuela (República Bolivariana de)||
+iso3166-1a2|VG|Vírgenes británicas, Islas||
+iso3166-1a2|VI|Vírgenes de los Estados Unidos, Islas||
+iso3166-1a2|VN|Viet Nam||
+iso3166-1a2|VU|Vanuatu||
+iso3166-1a2|WF|Wallis y Futuna||
+iso3166-1a2|WS|Samoa||
+iso3166-1a2|YE|Yemen||
+iso3166-1a2|YT|Mayotte||
+iso3166-1a2|ZA|Sudáfrica||
+iso3166-1a2|ZM|Zambia||
+iso3166-1a2|ZW|Zimbabwe||
+iso3166-1a3|ABW|Aruba||
+iso3166-1a3|AFG|Afganistán||
+iso3166-1a3|AGO|Angola||
+iso3166-1a3|AIA|Anguila||
+iso3166-1a3|ALA|Åland, Islas||
+iso3166-1a3|ALB|Albania||
+iso3166-1a3|AND|Andorra||
+iso3166-1a3|ARE|Emiratos Árabes Unidos (los)||
+iso3166-1a3|ARG|Argentina||
+iso3166-1a3|ARM|Armenia||
+iso3166-1a3|ASM|Samoa Americana||
+iso3166-1a3|ATA|Antártida||
+iso3166-1a3|ATF|Tierras Australes Francesas (las)||
+iso3166-1a3|ATG|Antigua y Barbuda||
+iso3166-1a3|AUS|Australia||
+iso3166-1a3|AUT|Austria||
+iso3166-1a3|AZE|Azerbaiyán||
+iso3166-1a3|BDI|Burundi||
+iso3166-1a3|BEL|Bélgica||
+iso3166-1a3|BEN|Benin||
+iso3166-1a3|BES|Bonaire, San Eustaquio y Saba||
+iso3166-1a3|BFA|Burkina Faso||
+iso3166-1a3|BGD|Bangladesh||
+iso3166-1a3|BGR|Bulgaria||
+iso3166-1a3|BHR|Bahrein||
+iso3166-1a3|BHS|Bahamas (las)||
+iso3166-1a3|BIH|Bosnia y Herzegovina||
+iso3166-1a3|BLM|Saint Barthélemy||
+iso3166-1a3|BLR|Belarús||
+iso3166-1a3|BLZ|Belice||
+iso3166-1a3|BMU|Bermudas||
+iso3166-1a3|BOL|Bolivia (Estado Plurinacional de)||
+iso3166-1a3|BRA|Brasil||
+iso3166-1a3|BRB|Barbados||
+iso3166-1a3|BRN|Brunei Darussalam||
+iso3166-1a3|BTN|Bhután||
+iso3166-1a3|BVT|Bouvet, Isla||
+iso3166-1a3|BWA|Botswana||
+iso3166-1a3|CAF|República Centroafricana (la)||
+iso3166-1a3|CAN|Canadá||
+iso3166-1a3|CCK|Cocos / Keeling, (las) Islas||
+iso3166-1a3|CHE|Suiza||
+iso3166-1a3|CHL|Chile||
+iso3166-1a3|CHN|China||
+iso3166-1a3|CIV|Côte d'Ivoire||
+iso3166-1a3|CMR|Camerún||
+iso3166-1a3|COD|Congo (la República Democrática del)||
+iso3166-1a3|COG|Congo (el)||
+iso3166-1a3|COK|Cook, (las) Islas||
+iso3166-1a3|COL|Colombia||
+iso3166-1a3|COM|Comoras (las)||
+iso3166-1a3|CPV|Cabo Verde||
+iso3166-1a3|CRI|Costa Rica||
+iso3166-1a3|CUB|Cuba||
+iso3166-1a3|CUW|Curaçao||
+iso3166-1a3|CXR|Navidad, Isla de||
+iso3166-1a3|CYM|Caimán, (las) Islas||
+iso3166-1a3|CYP|Chipre||
+iso3166-1a3|CZE|Chequia||
+iso3166-1a3|DEU|Alemania||
+iso3166-1a3|DJI|Djibouti||
+iso3166-1a3|DMA|Dominica||
+iso3166-1a3|DNK|Dinamarca||
+iso3166-1a3|DOM|Dominicana, (la) República||
+iso3166-1a3|DZA|Argelia||
+iso3166-1a3|ECU|Ecuador||
+iso3166-1a3|EGY|Egipto||
+iso3166-1a3|ERI|Eritrea||
+iso3166-1a3|ESH|Sahara Occidental||
+iso3166-1a3|ESP|España||
+iso3166-1a3|EST|Estonia||
+iso3166-1a3|ETH|Etiopía||
+iso3166-1a3|FIN|Finlandia||
+iso3166-1a3|FJI|Fiji||
+iso3166-1a3|FLK|Malvinas [Falkland], (las) Islas||
+iso3166-1a3|FRA|Francia||
+iso3166-1a3|FRO|Feroe, (las) Islas||
+iso3166-1a3|FSM|Micronesia (Estados Federados de)||
+iso3166-1a3|GAB|Gabón||
+iso3166-1a3|GBR|Reino Unido de Gran Bretaña e Irlanda del Norte (el)||
+iso3166-1a3|GEO|Georgia||
+iso3166-1a3|GGY|Guernsey||
+iso3166-1a3|GHA|Ghana||
+iso3166-1a3|GIB|Gibraltar||
+iso3166-1a3|GIN|Guinea||
+iso3166-1a3|GLP|Guadeloupe||
+iso3166-1a3|GMB|Gambia (la)||
+iso3166-1a3|GNB|Guinea Bissau||
+iso3166-1a3|GNQ|Guinea Ecuatorial||
+iso3166-1a3|GRC|Grecia||
+iso3166-1a3|GRD|Granada||
+iso3166-1a3|GRL|Groenlandia||
+iso3166-1a3|GTM|Guatemala||
+iso3166-1a3|GUF|Guayana Francesa||
+iso3166-1a3|GUM|Guam||
+iso3166-1a3|GUY|Guyana||
+iso3166-1a3|HKG|Hong Kong||
+iso3166-1a3|HMD|Heard (Isla) e Islas McDonald||
+iso3166-1a3|HND|Honduras||
+iso3166-1a3|HRV|Croacia||
+iso3166-1a3|HTI|Haití||
+iso3166-1a3|HUN|Hungría||
+iso3166-1a3|IDN|Indonesia||
+iso3166-1a3|IMN|Isla de Man||
+iso3166-1a3|IND|India||
+iso3166-1a3|IOT|Territorio Británico del Océano Índico (el)||
+iso3166-1a3|IRL|Irlanda||
+iso3166-1a3|IRN|Irán (República Islámica de)||
+iso3166-1a3|IRQ|Iraq||
+iso3166-1a3|ISL|Islandia||
+iso3166-1a3|ISR|Israel||
+iso3166-1a3|ITA|Italia||
+iso3166-1a3|JAM|Jamaica||
+iso3166-1a3|JEY|Jersey||
+iso3166-1a3|JOR|Jordania||
+iso3166-1a3|JPN|Japón||
+iso3166-1a3|KAZ|Kazajstán||
+iso3166-1a3|KEN|Kenya||
+iso3166-1a3|KGZ|Kirguistán||
+iso3166-1a3|KHM|Camboya||
+iso3166-1a3|KIR|Kiribati||
+iso3166-1a3|KNA|Saint Kitts y Nevis||
+iso3166-1a3|KOR|Corea (la República de)||
+iso3166-1a3|KWT|Kuwait||
+iso3166-1a3|LAO|Lao, (la) República Democrática Popular||
+iso3166-1a3|LBN|Líbano||
+iso3166-1a3|LBR|Liberia||
+iso3166-1a3|LBY|Libia||
+iso3166-1a3|LCA|Santa Lucía||
+iso3166-1a3|LIE|Liechtenstein||
+iso3166-1a3|LKA|Sri Lanka||
+iso3166-1a3|LSO|Lesotho||
+iso3166-1a3|LTU|Lituania||
+iso3166-1a3|LUX|Luxemburgo||
+iso3166-1a3|LVA|Letonia||
+iso3166-1a3|MAC|Macao||
+iso3166-1a3|MAF|Saint Martin (parte francesa)||
+iso3166-1a3|MAR|Marruecos||
+iso3166-1a3|MCO|Mónaco||
+iso3166-1a3|MDA|Moldova (la República de)||
+iso3166-1a3|MDG|Madagascar||
+iso3166-1a3|MDV|Maldivas||
+iso3166-1a3|MEX|México||
+iso3166-1a3|MHL|Marshall, (las) Islas||
+iso3166-1a3|MKD|Macedonia (la ex República Yugoslava de)||
+iso3166-1a3|MLI|Malí||
+iso3166-1a3|MLT|Malta||
+iso3166-1a3|MMR|Myanmar||
+iso3166-1a3|MNE|Montenegro||
+iso3166-1a3|MNG|Mongolia||
+iso3166-1a3|MNP|Marianas del Norte, (las) Islas||
+iso3166-1a3|MOZ|Mozambique||
+iso3166-1a3|MRT|Mauritania||
+iso3166-1a3|MSR|Montserrat||
+iso3166-1a3|MTQ|Martinique||
+iso3166-1a3|MUS|Mauricio||
+iso3166-1a3|MWI|Malawi||
+iso3166-1a3|MYS|Malasia||
+iso3166-1a3|MYT|Mayotte||
+iso3166-1a3|NAM|Namibia||
+iso3166-1a3|NCL|Nueva Caledonia||
+iso3166-1a3|NER|Níger (el)||
+iso3166-1a3|NFK|Norfolk, Isla||
+iso3166-1a3|NGA|Nigeria||
+iso3166-1a3|NIC|Nicaragua||
+iso3166-1a3|NIU|Niue||
+iso3166-1a3|NLD|Países Bajos (los)||
+iso3166-1a3|NOR|Noruega||
+iso3166-1a3|NPL|Nepal||
+iso3166-1a3|NRU|Nauru||
+iso3166-1a3|NZL|Nueva Zelandia||
+iso3166-1a3|OMN|Omán||
+iso3166-1a3|PAK|Pakistán||
+iso3166-1a3|PAN|Panamá||
+iso3166-1a3|PCN|Pitcairn||
+iso3166-1a3|PER|Perú||
+iso3166-1a3|PHL|Filipinas (las)||
+iso3166-1a3|PLW|Palau||
+iso3166-1a3|PNG|Papua Nueva Guinea||
+iso3166-1a3|POL|Polonia||
+iso3166-1a3|PRI|Puerto Rico||
+iso3166-1a3|PRK|Corea (la República Popular Democrática de)||
+iso3166-1a3|PRT|Portugal||
+iso3166-1a3|PRY|Paraguay||
+iso3166-1a3|PSE|Palestina, Estado de||
+iso3166-1a3|PYF|Polinesia Francesa||
+iso3166-1a3|QAT|Qatar||
+iso3166-1a3|REU|Reunión||
+iso3166-1a3|ROU|Rumania||
+iso3166-1a3|RUS|Rusia, (la) Federación de||
+iso3166-1a3|RWA|Rwanda||
+iso3166-1a3|SAU|Arabia Saudita||
+iso3166-1a3|SDN|Sudán (el)||
+iso3166-1a3|SEN|Senegal||
+iso3166-1a3|SGP|Singapur||
+iso3166-1a3|SGS|Georgia del Sur (la) y las Islas Sandwich del Sur||
+iso3166-1a3|SHN|Santa Helena, Ascensión y Tristán de Acuña||
+iso3166-1a3|SJM|Svalbard y Jan Mayen||
+iso3166-1a3|SLB|Salomón, Islas||
+iso3166-1a3|SLE|Sierra leona||
+iso3166-1a3|SLV|El Salvador||
+iso3166-1a3|SMR|San Marino||
+iso3166-1a3|SOM|Somalia||
+iso3166-1a3|SPM|San Pedro y Miquelón||
+iso3166-1a3|SRB|Serbia||
+iso3166-1a3|SSD|Sudán del Sur||
+iso3166-1a3|STP|Santo Tomé y Príncipe||
+iso3166-1a3|SUR|Suriname||
+iso3166-1a3|SVK|Eslovaquia||
+iso3166-1a3|SVN|Eslovenia||
+iso3166-1a3|SWE|Suecia||
+iso3166-1a3|SWZ|Swazilandia||
+iso3166-1a3|SXM|Sint Maarten (parte neerlandesa)||
+iso3166-1a3|SYC|Seychelles||
+iso3166-1a3|SYR|República Árabe Siria||
+iso3166-1a3|TCA|Turcas y Caicos, (las) Islas||
+iso3166-1a3|TCD|Chad||
+iso3166-1a3|TGO|Togo||
+iso3166-1a3|THA|Tailandia||
+iso3166-1a3|TJK|Tayikistán||
+iso3166-1a3|TKL|Tokelau||
+iso3166-1a3|TKM|Turkmenistán||
+iso3166-1a3|TLS|Timor-Leste||
+iso3166-1a3|TON|Tonga||
+iso3166-1a3|TTO|Trinidad y Tabago||
+iso3166-1a3|TUN|Túnez||
+iso3166-1a3|TUR|Turquía||
+iso3166-1a3|TUV|Tuvalu||
+iso3166-1a3|TWN|Taiwán (Provincia de China)||
+iso3166-1a3|TZA|Tanzania, República Unida de||
+iso3166-1a3|UGA|Uganda||
+iso3166-1a3|UKR|Ucrania||
+iso3166-1a3|UMI|Islas Ultramarinas Menores de los Estados Unidos (las)||
+iso3166-1a3|URY|Uruguay||
+iso3166-1a3|USA|Estados Unidos de América (los)||
+iso3166-1a3|UZB|Uzbekistán||
+iso3166-1a3|VAT|Santa Sede (la)||
+iso3166-1a3|VCT|San Vicente y las Granadinas||
+iso3166-1a3|VEN|Venezuela (República Bolivariana de)||
+iso3166-1a3|VGB|Vírgenes británicas, Islas||
+iso3166-1a3|VIR|Vírgenes de los Estados Unidos, Islas||
+iso3166-1a3|VNM|Viet Nam||
+iso3166-1a3|VUT|Vanuatu||
+iso3166-1a3|WLF|Wallis y Futuna||
+iso3166-1a3|WSM|Samoa||
+iso3166-1a3|YEM|Yemen||
+iso3166-1a3|ZAF|Sudáfrica||
+iso3166-1a3|ZMB|Zambia||
+iso3166-1a3|ZWE|Zimbabwe||
+iso3166-2:ar|AR-A|Salta||
+iso3166-2:ar|AR-B|Provincia de Buenos Aires||
+iso3166-2:ar|AR-C|Ciudad Autónoma de Buenos Aires o Capital Federal||
+iso3166-2:ar|AR-D|San Luis||
+iso3166-2:ar|AR-E|Entre Ríos||
+iso3166-2:ar|AR-F|La Rioja||
+iso3166-2:ar|AR-G|Santiago del Estero||
+iso3166-2:ar|AR-H|Chaco||
+iso3166-2:ar|AR-J|San Juan||
+iso3166-2:ar|AR-K|Catamarca||
+iso3166-2:ar|AR-L|La Pampa||
+iso3166-2:ar|AR-M|Mendoza||
+iso3166-2:ar|AR-N|Misiones||
+iso3166-2:ar|AR-P|Formosa||
+iso3166-2:ar|AR-Q|Neuquén||
+iso3166-2:ar|AR-R|Río Negro||
+iso3166-2:ar|AR-S|Santa Fe||
+iso3166-2:ar|AR-T|Tucumán||
+iso3166-2:ar|AR-U|Chubut||
+iso3166-2:ar|AR-V|Tierra del Fuego||
+iso3166-2:ar|AR-W|Corrientes||
+iso3166-2:ar|AR-X|Córdoba||
+iso3166-2:ar|AR-Y|Jujuy||
+iso3166-2:ar|AR-Z|Santa Cruz||

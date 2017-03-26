@@ -1,0 +1,39 @@
+{
+  "name": "diclas",
+  "description": "Diccionarios y clasificadores",
+  "version": "0.0.1",
+  "author": "Codenautas <codenautas@googlegroups.com>",
+  "repository": "codenautas/diclas",
+  "license": "MIT",
+  "main": "server-diclas.js",
+  "files": [
+    "server", "client", "unlogged", "def-config.yaml", "install"
+  ],
+  "dependencies": {
+
+    "backend-plus": "~0.10.2"
+  },
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "istanbul": "~0.4.5",
+    "mocha": "~3.2.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "start": "node server/server-diclas.js",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-nc": "mocha --reporter spec --bail --check-leaks --no-colors test/"
+  },
+  "qa-control": {
+    "package-version": "0.3.0",
+    "coverage": 90,
+    "run-in": "server",
+    "stability": "extending",
+    "type": "server-app",
+    "ecmaVersion": 6
+  }
+}

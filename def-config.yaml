@@ -1,0 +1,47 @@
+server:
+  port: 3051
+  base-url: /diclas
+db:
+  motor: postgresql
+  host: localhost
+  database: diclas_db
+  schema: dc
+  user: diclas_admin
+  password: diclas_3948812bdz77&3.##1
+install:
+  dump:
+    db:
+      owner: diclas_owner
+login:
+  table: usuarios
+  userFieldName: usuario
+  passFieldName: md5clave
+  rolFieldName: rol
+  infoFieldList: [usuario, rol]
+  activeClausule: current_timestamp<=activo_hasta or activo_hasta is null
+  lockedClausule: current_timestamp>=bloqueado_desde
+  plus:
+    allowHttpLogin: true
+    fileStore: false
+    secret: secret cat in the base
+    loginForm:
+      formTitle: diccionarios y clasificadores
+      usernameLabel: usuario
+      passwordLabel: clave
+      buttonLabel: entrar
+      formImg: diclas-lock.png
+    chPassForm:
+      usernameLabel: usuario
+      oldPasswordLabel: clave anterior
+      newPasswordLabel: nueva clave
+      repPasswordLabel: repetir nueva clave
+      buttonLabel: Cambiar
+      formTitle: Cambio de clave
+  messages:
+    userOrPassFail: el nombre de usuario no existe o la clave no corresponde
+    lockedFail: el usuario se encuentra bloqueado
+    inactiveFail: es usuario está marcado como inactivo
+client-setup:
+  cursors: true
+  lang: es
+  skin: ""

@@ -1,0 +1,45 @@
+doctype html
+html(lang="en")
+  head
+    title diccionarios y clasificadores
+    link(rel='stylesheet', href='css/dialog-promise.css')
+    link(rel='stylesheet', href='css/my-things.css')
+    link(rel='stylesheet', href='css/my-tables.css')
+    link(rel='stylesheet', href='css/menu.css')
+    link(rel="shortcut icon", href="img/logo-128.png", type:"image/png")
+    link(rel="apple-touch-icon", href="img/logo.png")
+  body
+    div#barra_superior
+      img#main-logo(src="img/logo.png")
+      mixin label-grupo(nombre)
+        input.group(type='radio', name='radio-menu', value=nombre, id='group-'+nombre)
+        label.group(id-grupo=nombre for='group-'+nombre)=nombre
+      mixin div-grupo(nombre)
+        div.barra_intermedia(id-grupo=nombre)
+          span.group(style={display:'none'})=nombre+": "
+          block
+      +label-grupo("diccionarios")
+      +label-grupo("clasificadores")
+      +label-grupo("orígenes")
+      +label-grupo("configuración")
+      span#menu-derecha
+        span#active-user user
+        img#menu-derecha(src="img/three-dot-menu.png")
+      +div-grupo("diccionarios")
+        button.tables(id-table="diccionarios")      diccionarios
+        button.tables(id-table="dic_ent")           entradas
+      +div-grupo("clasificadores")
+        button.tables(id-table="clasificadores")    clasificadores
+        button.tables(id-table="cla_item")          ítems
+      +div-grupo("orígenes")
+        button.tables(id-table="origenes")         origenes
+      +div-grupo("configuración")
+        button.tables(id-table="usuarios")         usuarios      
+    div#main_layout
+      div#table_layout
+    pre#status
+    each script in modules.scripts
+      script(src=script.src)
+    if(lang=='es')
+      script(src='lib/cliente-en-castellano.js') 
+    script(src='menu.js')

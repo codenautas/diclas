@@ -1,7 +1,7 @@
 {
   "name": "diclas",
   "description": "Diccionarios y clasificadores",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Codenautas <codenautas@googlegroups.com>",
   "repository": "codenautas/diclas",
   "license": "MIT",
@@ -11,7 +11,8 @@
   ],
   "dependencies": {
 
-    "backend-plus": "~0.10.2"
+    "backend-plus": "~0.11.0",
+    "kill-9": "~0.4.2"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",

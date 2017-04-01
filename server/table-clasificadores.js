@@ -8,7 +8,7 @@ module.exports = function(context){
         editable:admin,
         prefix:'cla',
         fields:[
-            {name:'cla_cla'          , typeName:'text'      , label:'código'     ,nullable:false},
+            {name:'cla_cla'          , typeName:'text'      , label:'clasificador',nullable:false},
             {name:'cla_nombre'       , typeName:'text'      , label:'nombre'                    },
             {name:'cla_descripcion'  , typeName:'text'      , label:'descripción'               },
             {name:'cla_ori'          , typeName:'text'      , label:'origen'                    },

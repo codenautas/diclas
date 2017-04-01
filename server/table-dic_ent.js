@@ -9,8 +9,8 @@ module.exports = function(context){
         editable:admin,
         prefix:'dicent',
         fields:[
-            {name:'dicent_cla'          , typeName:'text'      , label:'clasificador'  },
             {name:'dicent_dic'          , typeName:'text'      , label:'diccionario'   },
+            {name:'dicent_cla'          , typeName:'text'      , label:'clasificador'  },
             {name:'dicent_ent'          , typeName:'text'      , label:'entrada'       },
             {name:'dicent_traduccion'   , typeName:'text'      , label:'traducción'    },
         ],

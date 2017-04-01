@@ -6,9 +6,10 @@ module.exports = function(context){
         name:'diccionarios',
         elementName:'diccionario',
         editable:admin,
+        prefix:'dic',
         fields:[
             {name:'dic_cla'          , typeName:'text'      , label:'clasificador',nullable:false},
-            {name:'dic_dic'          , typeName:'text'      , label:'código'      ,nullable:false},
+            {name:'dic_dic'          , typeName:'text'      , label:'diccionario' ,nullable:false},
             {name:'dic_nombre'       , typeName:'text'      , label:'nombre'                     },
         ],
         primaryKey:['dic_cla', 'dic_dic'],

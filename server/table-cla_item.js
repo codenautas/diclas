@@ -10,12 +10,10 @@ module.exports = function(context){
         prefix:'claitem',
         fields:[
             {name:'claitem_cla'          , typeName:'text'      , label:'clasificador'  },
-            {name:'claitem_item'         , typeName:'text'      , label:'código'        },
+            {name:'claitem_item'         , typeName:'text'      , label:'ítem'          },
             {name:'claitem_nombre'       , typeName:'text'      , label:'nombre'        },
-            {name:'claitem_descripcion'  , typeName:'text'      , label:'descripción'   },
-            {name:'claitem_imagen'       , typeName:'text'      , label:'url imagen'    },
         ],
-        primaryKey:['claitem_cla', 'claitem_item'],
+        primaryKey:['claitem_cla', 'claitem_item'],  
         foreignKeys:[
             {references: 'clasificadores'    , fields:[{source:'claitem_cla', target:'cla_cla'}]},
         ],

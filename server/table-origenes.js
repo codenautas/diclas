@@ -7,10 +7,11 @@ module.exports = function(context){
         title:'orígenes',
         elementName:'origen',
         editable:admin,
+        prefix:'ori',
         fields:[
-            {name:'ori_ori'          , typeName:'text'      , label:'código'     ,nullable:false},
+            {name:'ori_ori'          , typeName:'text'      , label:'origen'     ,nullable:false},
             {name:'ori_nombre'       , typeName:'text'      , label:'nombre'                    },
-            {name:'ori_descripcion'  , typeName:'text'      , label:'origen'                    },
+            {name:'ori_descripcion'  , typeName:'text'      , label:'descripción'               },
             {name:'ori_fuente'       , typeName:'text'      , label:'fuente'                    },
             {name:'ori_link'         , typeName:'text'      , label:'vínculo/dirección'         },
         ],

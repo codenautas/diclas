@@ -7,6 +7,7 @@ module.exports = function(context){
         title:'entradas del diccionario',
         elementName:'entrada',
         editable:admin,
+        prefix:'dicent',
         fields:[
             {name:'dicent_cla'          , typeName:'text'      , label:'clasificador'  },
             {name:'dicent_dic'          , typeName:'text'      , label:'diccionario'   },

@@ -11,7 +11,8 @@
   ],
   "dependencies": {
 
-    "backend-plus": "~0.11.0",
+    "backend-plus": "~0.12.0",
+    "backend-skins": "~0.0.6",
     "kill-9": "~0.4.2"
   },
   "devDependencies": {

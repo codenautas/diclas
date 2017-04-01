@@ -2,15 +2,15 @@ doctype html
 html(lang="en")
   head
     title diccionarios y clasificadores
-    link(rel='stylesheet', href='css/dialog-promise.css')
-    link(rel='stylesheet', href='css/my-things.css')
-    link(rel='stylesheet', href='css/my-tables.css')
-    link(rel='stylesheet', href='css/menu.css')
-    link(rel="shortcut icon", href="img/logo-128.png", type:"image/png")
-    link(rel="apple-touch-icon", href="img/logo.png")
+    link(rel='stylesheet', href=skinUrl+'css/dialog-promise.css')
+    link(rel='stylesheet', href=skinUrl+'css/my-things.css')
+    link(rel='stylesheet', href=skinUrl+'css/my-tables.css')
+    link(rel='stylesheet', href=skinUrl+'css/menu.css')
+    link(rel="shortcut icon", href=skinUrl+"img/logo-128.png", type:"image/png")
+    link(rel="apple-touch-icon", href=skinUrl+"img/logo.png")
   body
     div#barra_superior
-      img#main-logo(src="img/logo.png")
+      img#main-logo(src=skinUrl+"img/logo.png")
       mixin label-grupo(nombre)
         input.group(type='radio', name='radio-menu', value=nombre, id='group-'+nombre)
         label.group(id-grupo=nombre for='group-'+nombre)=nombre
@@ -24,7 +24,7 @@ html(lang="en")
       +label-grupo("configuración")
       span#menu-derecha
         span#active-user user
-        img#menu-derecha(src="img/three-dot-menu.png")
+        img#menu-derecha(src=skinUrl+"img/three-dot-menu.png")
       +div-grupo("diccionarios")
         button.tables(id-table="diccionarios")      diccionarios
         button.tables(id-table="dic_ent")           entradas

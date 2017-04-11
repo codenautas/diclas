@@ -1,0 +1,4 @@
+db:
+  port: 5435
+req:
+  log: true

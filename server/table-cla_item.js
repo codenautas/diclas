@@ -11,7 +11,7 @@ module.exports = function(context){
         fields:[
             {name:'claitem_cla'          , typeName:'text'      , label:'clasificador'  },
             {name:'claitem_item'         , typeName:'text'      , label:'ítem'          },
-            {name:'claitem_nombre'       , typeName:'text'      , label:'nombre'        },
+            {name:'claitem_nombre'       , typeName:'text'      , label:'nombre',isName:true},
         ],
         primaryKey:['claitem_cla', 'claitem_item'],  
         foreignKeys:[
@@ -20,5 +20,5 @@ module.exports = function(context){
         detailTables:[
             {table: 'dic_ent'     , fields:[{source:'dic_dic', target:'dicent_dic'}], abr:'E', label:'entradas'},
         ]
-    });
+    },context);
 }

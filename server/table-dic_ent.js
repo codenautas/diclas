@@ -25,5 +25,5 @@ module.exports = function(context){
                 {source:'dicent_traduccion', target:'claitem_item'}
             ]},
         ]
-    });
+    },context);
 }

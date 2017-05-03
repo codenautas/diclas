@@ -9,16 +9,7 @@ var changing = require('best-globals').changing;
 class AppDiclas extends backendPlus.AppBackend{
     constructor(){
         super();
-        this.rootPath=Path.resolve(__dirname,'..');
-        console.log('rootPath',this.rootPath);
-        this.tableStructures = {};
-        this.tableStructures.origenes          = require('./table-origenes.js');
-        this.tableStructures.diccionarios      = require('./table-diccionarios.js');
-        this.tableStructures.dic_ent           = require('./table-dic_ent.js');
-        this.tableStructures.clasificadores    = require('./table-clasificadores.js');
-        this.tableStructures.cla_item          = require('./table-cla_item.js');
-        this.tableStructures.usuarios          = require('./table-usuarios.js');
-    }
+    }    
     addLoggedServices(){
         var be = this;
         super.addLoggedServices();
@@ -33,6 +24,34 @@ class AppDiclas extends backendPlus.AppBackend{
                 require('./procedures-diclas.js').map(be.procedureDefCompleter, be)
             );
         });
+    }
+    getMenu(context){
+        return {menu:[
+            {menuType:'menu', name:'diccionarios', menuContent:[
+                {menuType:'table', name:'diccionarios', label:'diccionarios'},
+                {menuType:'table', name:'dic_ent', label:'entradas'  },
+            ]},
+            {menuType:'menu', name:'clasificadores', menuContent:[
+                {menuType:'table', name:'clasificadores'},
+                {menuType:'table', name:'cla_item', label:'ítems'},
+            ]},
+            {menuType:'menu', name:'orígenes', menuContent:[
+                {menuType:'table', name:'origenes', label:'orígenes'},
+            ]},
+            {menuType:'menu', name:'configuración', menuContent:[
+                {menuType:'table', name:'usuarios'},
+            ]},
+        ]}
+    }
+    getTables(){
+        return super.getTables().concat([
+            'origenes',   
+            'diccionarios',
+            'dic_ent', 
+            'clasificadores',
+            'cla_item',       
+            'usuarios',
+        ]);
     }
 }
 

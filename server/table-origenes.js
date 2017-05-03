@@ -17,7 +17,6 @@ module.exports = function(context){
         ],
         primaryKey:['ori_ori'],
         detailTables:[
-            {table: 'diccionarios'     , fields:[{source:'ori_ori', target:'dic_ori'}], abr:'D'},
             {table: 'clasificadores'   , fields:[{source:'ori_ori', target:'cla_ori'}], abr:'C'},
         ]
     });

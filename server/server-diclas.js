@@ -30,6 +30,8 @@ class AppDiclas extends backendPlus.AppBackend{
             {menuType:'menu', name:'diccionarios', menuContent:[
                 {menuType:'table', name:'diccionarios', label:'diccionarios'},
                 {menuType:'table', name:'dic_ent', label:'entradas'  },
+                {menuType:'table', name:'diccionarios_compuestos', label:'diccionarios compuestos'},
+                {menuType:'table', name:'diccom_ent', label:'entradas'  },
             ]},
             {menuType:'menu', name:'clasificadores', menuContent:[
                 {menuType:'table', name:'clasificadores'},
@@ -46,10 +48,13 @@ class AppDiclas extends backendPlus.AppBackend{
     getTables(){
         return super.getTables().concat([
             'origenes',   
-            'diccionarios',
-            'dic_ent', 
             'clasificadores',
             'cla_item',       
+            'diccionarios',
+            'dic_ent', 
+            'diccionarios_compuestos',
+            'diccom_ent',
+            'dic_ent', 
             'usuarios',
         ]);
     }

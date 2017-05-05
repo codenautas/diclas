@@ -45,3 +45,4 @@ client-setup:
   cursors: true
   lang: es
   skin: ""
+  menu: true

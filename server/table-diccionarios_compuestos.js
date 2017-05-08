@@ -14,7 +14,7 @@ module.exports = function(context){
         ],
         primaryKey:['diccom_diccom', 'diccom_cla'],
         foreignKeys:[
-            {references: 'clasificadores' , fields:[{source:'dic_cla', target:'cla_cla'}]},
+            {references: 'clasificadores' , fields:[{source:'diccom_cla', target:'cla_cla'}]},
         ],
         detailTables:[
             {table: 'diccom_ent'     , fields:[
@@ -23,7 +23,7 @@ module.exports = function(context){
             ], abr:'E', label:'entradas'},
         ],
         sql:{
-            postCreateSqls:'alter table diccionarios_compuestos add constraint "dic no se puede repetir" unique (dic_dic);'
+            postCreateSqls:'alter table diccionarios_compuestos add constraint "diccom no se puede repetir" unique (diccom_diccom);'
         }
     });
 }

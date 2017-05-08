@@ -4,7 +4,7 @@ module.exports = function(context){
     var admin=context.user.rol==='admin';
     return context.be.tableDefAdapt({
         name:'diccom_ent',
-        title:'entradas del diccionario computesto',
+        title:'entradas del diccionario compuesto',
         elementName:'entrada',
         editable:false,
         prefix:'diccoment',

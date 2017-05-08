@@ -25,5 +25,5 @@ module.exports = function(context){
         sql:{
             postCreateSqls:'alter table diccionarios add constraint "dic no se puede repetir" unique (dic_dic);'
         }
-    });
+    },context);
 }

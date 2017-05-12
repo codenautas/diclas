@@ -14,7 +14,7 @@ module.exports = function(context){
             {name:'diccoment_ent'          , typeName:'text'      , label:'entrada'       },
             {name:'diccoment_traduccion'   , typeName:'text'      , label:'traducción'    },
         ],
-        primaryKey:['diccoment_diccom', 'diccoment_ent'],
+        primaryKey:['diccoment_diccom', 'diccoment_cla', 'diccoment_ent'],
         foreignKeys:[
             {references: 'diccionarios_compuestos'    , fields:[
                 {source:'diccoment_cla'   , target:'diccom_cla'},

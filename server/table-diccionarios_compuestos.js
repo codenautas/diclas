@@ -21,6 +21,10 @@ module.exports = function(context){
                 {source:'diccom_cla'   , target:'diccoment_cla'},
                 {source:'diccom_diccom', target:'diccoment_diccom'},
             ], abr:'E', label:'entradas'},
+            {table: 'diccom_def'     , fields:[
+                {source:'diccom_cla'   , target:'diccomdef_cla'},
+                {source:'diccom_diccom', target:'diccomdef_diccom'},
+            ], abr:'def', label:'entradas'},
         ],
         sql:{
             postCreateSqls:'alter table diccionarios_compuestos add constraint "diccom no se puede repetir" unique (diccom_diccom);'

@@ -26,6 +26,12 @@ module.exports = function(context){
                 {source:'dicent_cla', target:'claitem_cla'},
                 {source:'dicent_traduccion', target:'claitem_item'}
             ]},
+        ],
+        softForeignKeys:[
+            {references: 'cla_item'        , fields:[
+                {source:'dicent_dic', target:'claitem_cla'},
+                {source:'dicent_ent', target:'claitem_item'}
+            ], alias:'item'},
         ]
     },context);
 }

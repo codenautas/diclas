@@ -53,6 +53,7 @@ class AppDiclas extends backendPlus.AppBackend{
             'diccionarios',
             'dic_ent', 
             'diccionarios_compuestos',
+            'diccom_def',
             'diccom_ent',
             'dic_ent', 
             'usuarios',

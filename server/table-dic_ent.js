@@ -13,7 +13,7 @@ module.exports = function(context){
             {name:'dicent_cla'           , typeName:'text'      , label:'clasificador'  },
             {name:'dicent_ent'           , typeName:'text'      , label:'entrada'       },
             {name:'dicent_traduccion'    , typeName:'text'      , label:'traducción'    },
-            {name:'dicent_exactitud'     , typeName:'integer'   , label:'exactitud'     },
+            {name:'dicent_exactitud'     , typeName:'text'      , label:'exactitud'     },
             {name:'dicent_obs'           , typeName:'text'      , label:'observaciones' },
         ],
         primaryKey:['dicent_dic', 'dicent_ent'],

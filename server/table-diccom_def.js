@@ -21,12 +21,12 @@ module.exports = function(context){
             ]},
             {references: 'diccionarios'    , fields:[
                 {source:'diccomdef_cla'    , target:'dic_cla'},
-                {source:'diccomdef_ruta'   , target:'dic_diccom'}
-            ]},
+                {source:'diccomdef_ruta'   , target:'dic_dic'}
+            ], alias:"paso2"},
             {references: 'diccionarios'    , fields:[
-                {source:'diccomdef_cla'    , target:'dic_cla'},
+                {source:'diccomdef_ruta'   , target:'dic_cla'},
                 {source:'diccomdef_diccom' , target:'dic_dic'}
-            ]},
+            ], alias:"paso1"},
         ]
     },context);
 }

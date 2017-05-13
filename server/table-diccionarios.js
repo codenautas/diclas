@@ -21,9 +21,6 @@ module.exports = function(context){
                 {source:'dic_cla', target:'dicent_cla'},
                 {source:'dic_dic', target:'dicent_dic'},
             ], abr:'E', label:'entradas'},
-        ],
-        sql:{
-            postCreateSqls:'alter table diccionarios add constraint "dic no se puede repetir" unique (dic_dic);'
-        }
+        ]
     },context);
 }

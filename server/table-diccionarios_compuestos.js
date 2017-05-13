@@ -14,7 +14,13 @@ module.exports = function(context){
         ],
         primaryKey:['diccom_diccom', 'diccom_cla'],
         foreignKeys:[
-            {references: 'clasificadores' , fields:[{source:'diccom_cla', target:'cla_cla'}]},
+            {references: 'clasificadores' , fields:[
+                {source:'diccom_cla'   , target:'cla_cla'}
+            ]},
+            {references: 'diccionarios'   , fields:[
+                {source:'diccom_cla'   , target:'dic_cla'},
+                {source:'diccom_diccom', target:'dic_dic'}
+            ]},
         ],
         detailTables:[
             {table: 'diccom_ent'     , fields:[

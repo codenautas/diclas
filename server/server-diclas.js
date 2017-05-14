@@ -31,7 +31,6 @@ class AppDiclas extends backendPlus.AppBackend{
                 {menuType:'table', name:'diccionarios', label:'diccionarios'},
                 {menuType:'table', name:'dic_ent', label:'entradas'  },
                 {menuType:'table', name:'diccionarios_compuestos', label:'diccionarios compuestos'},
-                {menuType:'table', name:'diccom_ent', label:'entradas'  },
             ]},
             {menuType:'menu', name:'clasificadores', menuContent:[
                 {menuType:'table', name:'clasificadores'},

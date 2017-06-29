@@ -18,7 +18,7 @@ module.exports = function(context){
             {references: 'clasificadores'    , fields:[{source:'claitem_cla', target:'cla_cla'}]},
         ],
         detailTables:[
-            {table: 'dic_ent'     , fields:[{source:'dic_dic', target:'dicent_dic'}], abr:'E', label:'entradas'},
+            {table: 'dic_ent'     , fields:[{source:'claitem_cla', target:'dicent_cla'}, {source:'claitem_item', target:'dicent_traduccion'}], abr:'E', label:'entradas'},
         ]
     },context);
 }

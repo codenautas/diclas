@@ -35,5 +35,5 @@ module.exports = function(context){
         sql:{
             postCreateSqls:'alter table diccionarios_compuestos add constraint "diccom no se puede repetir" unique (diccom_diccom);'
         }
-    });
+    },context);
 }

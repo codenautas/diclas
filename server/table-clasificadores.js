@@ -23,5 +23,5 @@ module.exports = function(context){
             {table: 'cla_item'    , fields:[{source:'cla_cla', target:'claitem_cla'}], abr:'I', label:'ítems'},
             {table: 'diccionarios', fields:[{source:'cla_cla', target:'dic_cla'}], abr:'D', label:'diccionarios'},
         ]
-    });
+    },context);
 }
